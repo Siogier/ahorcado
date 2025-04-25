@@ -1,0 +1,25 @@
+body {
+    background-color: beige
+}
+
+h1, #imagen-contenedor, p, #intentos, #letrasUsadas {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#palabra, #input {
+    justify-self: center;
+}
+
+#palabra {
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+#boton-contenedor {
+    justify-self: center;
+    margin-top: 15px;
+}
+
+
+
